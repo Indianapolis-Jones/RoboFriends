@@ -1,3 +1,5 @@
+Created this project from udemy class The Complete Web Developer: Zero to Mastery
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
